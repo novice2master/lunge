@@ -10,7 +10,7 @@ Lunge Marketplace
 
 Technologies Used:
 
-```
+
 [Node.JS](https://nodejs.org/en/download/) - Download Link
 [MySQL](https://dev.mysql.com/downloads/installer/) - Download Link
 [MySQL Workbench](https://dev.mysql.com/downloads/workbench/) - Download Link
@@ -20,7 +20,6 @@ Technologies Used:
 [Bootstrap](https://getbootstrap.com/) -  Install through NPM or copy & paste the Bootstrap CDN codes on the bottom of the page.
 Code Editors: ie - Visual Studio Code or Sublime Text
 HTML/CSS/JS
-```
 
 
 ## Getting Started
